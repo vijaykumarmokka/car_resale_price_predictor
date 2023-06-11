@@ -1,1 +1,2 @@
-# car_resale_price_predictor
+# Simple-Car-Price-Prediction
+Cloning Krish Naik's Car-Price-Prediction
