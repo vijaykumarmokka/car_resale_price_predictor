@@ -1,2 +1,2 @@
-# Simple-Car-Price-Prediction
-Cloning Krish Naik's Car-Price-Prediction
+a normal problem with linear regression 
+
